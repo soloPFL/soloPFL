@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning bash scripting.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/SoloPfl)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: This Github is just an archive of code I'm working on.
 
 Use my work under the following license: 
